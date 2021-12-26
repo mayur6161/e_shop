@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider(create: (c) => TotalAmount()),
       ],
       child: MaterialApp(
-          title: 'E_shop',
+          title: 'E_shop2',
           debugShowCheckedModeBanner: false,
           theme: ThemeData(
             primaryColor: kPrimaryColor,
