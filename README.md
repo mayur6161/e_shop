@@ -1,3 +1,5 @@
+register app on firebase.
+
 Add your own google json file.
 
 Add manually admin details as shown in the below image. 
